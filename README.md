@@ -21,42 +21,7 @@ Este proyecto está diseñado para gestionar las órdenes de venta en una aplica
   - Eliminar un detalle de orden de venta.
 
 ## **Estructura del Proyecto**
-
-src
-├── main
-│ ├── java
-│ │ └── com
-│ │ └── tecsup
-│ │ └── examen02
-│ │ ├── controller
-│ │ │ ├── OrdenVentaController.java
-│ │ │ └── DetalleOrdenVtaController.java
-│ │ ├── dao
-│ │ │ ├── OrdenVentaDAO.java
-│ │ │ ├── OrdenVentaDAOImpl.java
-│ │ │ ├── DetalleOrdenVtaDAO.java
-│ │ │ └── DetalleOrdenVtaDAOImpl.java
-│ │ ├── model
-│ │ │ ├── OrdenVenta.java
-│ │ │ └── DetalleOrdenVta.java
-│ │ └── service
-│ │ ├── OrdenVentaService.java
-│ │ ├── OrdenVentaServiceImpl.java
-│ │ ├── DetalleOrdenVtaService.java
-│ │ └── DetalleOrdenVtaServiceImpl.java
-│ └── resources
-│ ├── application.properties
-│ └── static
-│ ├── css
-│ │ └── styles.css
-│ └── js
-│ └── app.js
-└── test
-└── java
-└── com
-└── tecsup
-└── examen02
-└── Examen02ApplicationTests.java
+![image](https://github.com/user-attachments/assets/100cfee5-c332-4248-965a-1725f6ffd5bc)
 
 
 ## **Tecnologías Utilizadas**
