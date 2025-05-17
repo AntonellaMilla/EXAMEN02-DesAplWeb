@@ -74,9 +74,4 @@ Este proyecto está diseñado para gestionar las órdenes de venta en una aplica
    - URL: `http://localhost:8081/ordenes-venta/001`
 
 
-
-- La API está diseñada para ser consumida por clientes frontend, y puedes integrar fácilmente un frontend estático con HTML y CSS.
-- Si necesitas agregar validaciones o manejo de errores más robusto, puedes extender los controladores y servicios.
-- La base de datos está configurada para usar H2 en memoria, pero puede ser configurada fácilmente para usar MySQL, PostgreSQL o cualquier otro sistema de bases de datos.
-
 ---
